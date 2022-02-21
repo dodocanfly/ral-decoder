@@ -1,0 +1,21 @@
+{
+    "name": "dodocanfly/ral-decoder",
+    "description": "Get names, hex/rgb values of RAL colours easily",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dodocanfly\\RalDecoder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk Stepien",
+            "email": "patryk@dodocanfly.pl"
+        }
+    ]
+}
