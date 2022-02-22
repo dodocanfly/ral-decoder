@@ -1,6 +1,7 @@
 {
     "name": "dodocanfly/ral-decoder",
     "description": "Get names, hex/rgb values of RAL colours easily",
+    "license": "MIT",
     "require": {
         "php": "^7.4|^8.0"
     },
